@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="physics_questions">
-        <item>Questions 1</item>
+        <item>For every action there is an equal reaction that is not equal in magnitude but opposite in direction</item>
+        <item>Energy cannot be created</item>
+        <item>Friction is a force that opposes motion</item>
+        <item>Your mass on Earth is different than your mass on Mars</item>
     </string-array>
     <integer-array name="physics_answers">
+        <item>0</item>
         <item>1</item>
+        <item>1</item>
+        <item>0</item>
     </integer-array>
 </resources>

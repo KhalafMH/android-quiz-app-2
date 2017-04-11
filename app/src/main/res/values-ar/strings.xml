@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp2</string>
+    <string name="correct">صح</string>
+    <string name="false_button">جواب خاطئ</string>
+</resources>
