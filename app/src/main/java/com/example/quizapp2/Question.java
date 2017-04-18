@@ -2,6 +2,8 @@ package com.example.quizapp2;
 
 /**
  * Created by Mahdi on 4/12/2017.
+ *
+ * A question that will be used in a quiz.
  */
 
 public class Question {

@@ -7,4 +7,7 @@
     <string name="true_button">True</string>
     <string name="correct">Correct</string>
     <string name="wrong_answer">Wrong answer</string>
+    <string name="cheater">Cheater!</string>
+    <string name="cheat">Cheat!</string>
+    <string name="are_you_sure">Are you sure?</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="com.example.quizapp2"
-          xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.quizapp2">
 
     <application
         android:allowBackup="true"
@@ -19,9 +19,9 @@
         <activity android:name=".MathQuizActivity">
         </activity>
         <activity android:name=".PhysicsQuizActivity">
-
         </activity>
-
+        <activity android:name=".CheatActivity">
+        </activity>
     </application>
 
 </manifest>

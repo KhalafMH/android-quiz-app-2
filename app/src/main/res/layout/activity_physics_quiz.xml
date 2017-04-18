@@ -17,6 +17,13 @@
         android:textAppearance="?android:textAppearanceMedium"
         tools:text="this is the question" />
 
+    <Button
+        android:id="@+id/cheat_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cheat"
+        android:textColor="@color/red"/>
+
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
